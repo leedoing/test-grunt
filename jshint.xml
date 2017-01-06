@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+	<file name="build/js/foundation.min.js">
+		<error line="1" column="26" severity="warning" message="Unnecessary semicolon." source="jshint.W032" />
+	</file>
+</checkstyle>
