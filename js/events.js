@@ -1,4 +1,4 @@
-var assert = require("assert");
+var assert = require("assert")
 var Events = require('../../src/events.js');
 function getAllCapsSnakeCaseToCamelCase(eventType) {
 
